@@ -1,7 +1,5 @@
 # Credit Card Fraud Detection Pipeline
 
-**DecodeLabs Data Science Industrial Training — Batch 2026 | Project 2**
-
 An end-to-end supervised learning pipeline that detects fraudulent credit card transactions in a highly imbalanced dataset (~0.17% fraud), comparing Logistic Regression and Random Forest with SMOTE-based oversampling and hyperparameter tuning.
 
 ---
